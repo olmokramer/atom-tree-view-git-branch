@@ -1,0 +1,15 @@
+{
+  "name": "git-branch",
+  "main": "./lib/git-branch",
+  "version": "0.0.0",
+  "description": "Manage git branches from the tree view",
+  "keywords": [
+  ],
+  "repository": "https://github.com/olmokramer/atom-git-branch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
