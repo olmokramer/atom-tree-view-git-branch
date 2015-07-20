@@ -2,7 +2,7 @@
   "name": "tree-view-git-branch",
   "main": "./lib/main.js",
   "version": "0.0.1",
-  "description": "Manage git branches from the tree view",
+  "description": "Change git branches from the tree view",
   "keywords": [
     "tree-view",
     "git",
