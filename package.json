@@ -3,7 +3,12 @@
   "main": "./lib/main.js",
   "version": "0.0.1",
   "description": "Manage git branches from the tree view",
-  "keywords": [],
+  "keywords": [
+    "tree-view",
+    "git",
+    "branch",
+    "tag"
+  ],
   "repository": "https://github.com/olmokramer/atom-tree-view-git-branch",
   "license": "MIT",
   "engines": {
