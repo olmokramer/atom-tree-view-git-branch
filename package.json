@@ -12,9 +12,5 @@
   "dependencies": {
     "array.from": "^0.2.0",
     "object-assign-shim": "^1.0.0"
-  },
-  "devDependencies": {
-    "babel-eslint": "^3.1.23",
-    "eslint": "^0.24.1"
   }
 }
