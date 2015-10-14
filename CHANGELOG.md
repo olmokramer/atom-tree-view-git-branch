@@ -1,3 +1,6 @@
+## 0.0.5
+* Better integration with the tree view: navigating with keyboard now works (#5)
+
 ## 0.0.4
 * @yoohahn - Fix crash when the project root folder is a subdirectory of a repository (#4)
 * @yoohahn - Fix crash on Windows where paths contain `\` but they weren't escaped (#4)
