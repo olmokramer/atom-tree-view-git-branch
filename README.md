@@ -1,11 +1,12 @@
 # tree-view-git-branch package
 
-List branches and tags of git projects in the tree view. Double click to `git checkout` the branch.
+Quickly switch git branches from the tree view.
 
 ![screenshot](https://raw.githubusercontent.com/olmokramer/atom-tree-view-git-branch/master/screencast.gif)
 
 ## Planned features
 
+* [ ] Better error messages, e.g. reason why checkout failed
 * [ ] Create/delete branches
 * [ ] Auto-update branches
 * [ ] Manage remote branches
@@ -13,8 +14,6 @@ List branches and tags of git projects in the tree view. Double click to `git ch
 * [ ] Merge branches
 * [ ] Add/reset changed files
 * [ ] Commit/push/pull
-
-* [ ] Rename package to `tree-view-git-control` when all of the above is done
 
 If you can think of another feature, feel free to submit it in an issue over at the repo.
 
