@@ -1,3 +1,6 @@
+## 0.0.6
+* Fix crash on double-click on a branch (#6)
+
 ## 0.0.5
 * Better integration with the tree view: navigating with keyboard now works (#5)
 
