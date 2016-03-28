@@ -1,3 +1,6 @@
+## 0.1.1
+* Add `separator` setting that, when turned on, draws a line between a project and the next branch list
+
 ## 0.1.0
 * Change the text `local branches` to `branches [<project name>]`
 * Add setting `location` that can be either
