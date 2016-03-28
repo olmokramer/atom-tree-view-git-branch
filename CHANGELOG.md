@@ -1,6 +1,9 @@
 ## 0.1.0
 * Change the text `local branches` to `branches [<project name>]`
-* Fix the 'local branches' items in the tree view being grouped at the top of the tree view when the a project directory is added or removed (#7)
+* Add setting `location` that can be either
+  - `top`: display the branches for all repositories at the top of the tree view
+  - `before-project`: display the branches of a repository right before its corresponding project directory
+* Fix the 'local branches' items in the tree view being grouped and ordered incorrectly when the a project directory is added or removed (#7)
 * Fix text color indicating the selected branch changing when a checkout failed
 
 ## 0.0.6
