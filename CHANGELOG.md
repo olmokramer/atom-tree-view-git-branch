@@ -1,3 +1,6 @@
+## 0.1.2
+* Fix memory leaks
+
 ## 0.1.1
 * Add new `location` option `inside` which places the branch list inside the project directory as the first entry of the directory
 * Rename `location` option `before-project` to `before`
