@@ -1,7 +1,7 @@
 {
   "name": "tree-view-git-branch",
   "main": "./lib/main.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Quickly change git branches from the tree view",
   "keywords": [
     "tree-view",
