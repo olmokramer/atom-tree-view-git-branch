@@ -1,5 +1,6 @@
 ## 0.1.3
 * Update selected branch when switching branches some other way than tree-view-git-branch
+* Fix `tree-view-git-branch:reload` command. When triggered from the tree view context menu, it will only reload the branch list under the context menu. Calling the command from the command palette reloads all projects.
 * Fix more memory leaks
 
 ## 0.1.2
