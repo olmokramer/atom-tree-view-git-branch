@@ -1,4 +1,8 @@
+## 0.1.3
+* Update selected branch when branch changed outside of atom
+
 ## 0.1.2
+* Fix issues with the `location` setting
 * Fix memory leaks
 
 ## 0.1.1
