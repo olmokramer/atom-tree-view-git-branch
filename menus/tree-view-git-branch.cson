@@ -1,5 +1,5 @@
 'context-menu':
-  '.tree-view': [
+  '.tree-view [is="tree-view-git-branch-list"]': [
     {
       'label': 'Reload branches and tags'
       'command': 'tree-view-git-branch:reload'
