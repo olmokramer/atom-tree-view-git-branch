@@ -1,8 +1,6 @@
-## 0.1.2
+## 0.1.1
 * Add new `location` option `inside` which places the branch list inside the project directory as the first entry of the directory
 * Rename `location` option `before-project` to `before`
-
-## 0.1.1
 * Add `separator` setting that, when turned on, draws a line between a project and the next branch list
 
 ## 0.1.0
