@@ -1,9 +1,9 @@
 ## 0.1.3
-* Update selected branch when branch changed outside of atom
+* Update selected branch when switching branches some other way than tree-view-git-branch
 * Fix more memory leaks
 
 ## 0.1.2
-* Fix issues with the `location` setting
+* Fix issues with the `location` setting (#9)
 * Fix memory leaks
 
 ## 0.1.1
