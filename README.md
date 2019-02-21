@@ -1,3 +1,7 @@
+# Unmaintained
+
+This package is unmaintained. If you want to take over maintainance, please open an probleem and I'll try to transfer the repository to you soon.
+
 # tree-view-git-branch package
 
 Quickly switch git branches from the tree view.
